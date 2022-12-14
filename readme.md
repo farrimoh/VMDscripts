@@ -1,3 +1,8 @@
+## TCL scripts for taking snapshots from molecular simulation trajectories 
+
+![A snapshot from simulations of self assembly of bacterial microcompratments](HBV.jpg)
+
+
 #### Load the dcd trajectory
 vmd sd*.mol2 sd*.dcd
 
